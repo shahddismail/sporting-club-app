@@ -55,19 +55,33 @@ Make sure you have the following installed:
 
 ---
 
-### 📦 Installation
+### 🛠️ **Setup Instructions**
 
-1. **Clone the repository:**
+1. 🧾 **Clone the repository:**
 
 ```bash
 git clone https://github.com/yourusername/sporting-club-app.git
 cd sporting-club-app
 
+2. 📦 **Install Dependencies:**
+npm install
 
+3. 🚀 **Start the development server:**
+npm run dev
+
+4.🌐** Open your browser at:**
+http://localhost:3000
 
 ---
-## 🙌 Acknowledgements
-Built as a frontend internship project for Blue Ribbon.
+###🙌 **Acknowledgements**
+Built as a frontend internship project challenge for Blue Ribbon.
+
+
+
+
+
+
+
 
 
 
