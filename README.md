@@ -43,18 +43,17 @@ Make sure you have the following installed:
 ### 🛠️ **Setup Instructions**
 
 1. 🧾 **Clone the repository:**
-
-git clone https://github.com/yourusername/sporting-club-app.git
-cd sporting-club-app
+ git clone https://github.com/yourusername/sporting-club-app.git
+ cd sporting-club-app
 
 2. 📦**Install Dependencies:**
-npm install
+ npm install
 
 3. 🚀 **Start the development server:**
-npm run dev
+ npm run dev
 
 4.🌐**Open your browser at:**
-http://localhost:3000
+ http://localhost:3000
 
 
 
