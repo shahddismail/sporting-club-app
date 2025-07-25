@@ -56,7 +56,8 @@ Make sure you have the following installed:
 
 ### 🛠️ **Setup Instructions**
 🧾 **Clone the repository:**
- git clone https://github.com/yourusername/sporting-club-app.git **Replace yourusername with your github username**
+ git clone https://github.com/yourusername/sporting-club-app.git 
+ # Replace 'yourusername' with your GitHub username
  cd sporting-club-app
 
 📦**Install Dependencies:**
