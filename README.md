@@ -20,6 +20,17 @@ Built with **Next.js**, **TypeScript**, and **Tailwind CSS** — includes clean 
 
 ---
 
+
+## 🎯 Motivation
+
+Managing sports clubs manually can be inefficient, especially with a growing number of members and sports. This application aims to provide a user-friendly and responsive tool to:
+
+- Organize and manage multiple sports categories.
+- Easily register and manage club members.
+- Handle complex subscription logic (e.g., prevent duplicate registrations).
+
+---
+
 ## 🛠 Technology Stack
 
 - **Framework**: Next.js 14 (App Router)
