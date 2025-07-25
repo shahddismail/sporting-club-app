@@ -29,7 +29,21 @@ Built with **Next.js**, **TypeScript**, and **Tailwind CSS** — includes clean 
 - **State Management**: React Hooks (`useState`, `useEffect`)
 
 ---
+## 📁 Folder Structure
 
+src/
+├── app/ → Next.js pages (App Router)
+│ ├── page.tsx → Homepage
+│ ├── layout.tsx → Layout wrapper
+│ └── globals.css → Tailwind base styles
+├── components/
+│ ├── forms/ → SportForm, MemberForm, SubscriptionForm
+│ ├── ui/ → Input, Select, Button, Card
+├── data/ → mockData.ts (optional test data)
+├── types/ → index.ts (interfaces and types)
+├── utils/ → validation.ts (form field validation)
+
+---
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
@@ -48,3 +62,13 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/sporting-club-app.git
 cd sporting-club-app
+
+
+
+
+🙌 Acknowledgements
+Built as a frontend internship project for Blue Ribbon.
+
+
+
+
