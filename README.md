@@ -49,7 +49,7 @@ Make sure you have the following installed:
 - [Node.js 18+](https://nodejs.org/)
 - npm or yarn
 
----
+
 ### 🛠️ **Setup Instructions**
 🧾 **Clone the repository:**
  git clone https://github.com/yourusername/sporting-club-app.git **Replace yourusername with your github username**
