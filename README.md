@@ -4,7 +4,10 @@ A modern, responsive web application for managing sporting clubs, members, and t
 Built with **Next.js**, **TypeScript**, and **Tailwind CSS** — includes clean UI, form validation, and responsive design.
 
 ---
+## 🚀 Live Demo
 
+👉 [View Live on Vercel](https://sporting-club-app.vercel.app)
+---
 ## ✨ Features
 
 ### Core Features
