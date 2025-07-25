@@ -7,6 +7,7 @@ Built with **Next.js**, **TypeScript**, and **Tailwind CSS** — includes clean 
 ## 🚀 Live Demo
 
 👉 [View Live on Vercel](https://sporting-club-app.vercel.app)
+
 ---
 ## ✨ Features
 
