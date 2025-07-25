@@ -66,7 +66,7 @@ cd sporting-club-app
 
 
 ---
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 Built as a frontend internship project for Blue Ribbon.
 
 
